@@ -1,0 +1,25 @@
+_Customer_ID,Full_Name,Gen,Age,Address,City,State,PostalCode,Country,Phone,E_Mail,Update_Date,Status,Updated_by
+1001,John Smith,M,51,1515 NW 58th St.,Seattle,WA,98107,US,(206) 389-4227,John.Smith@avrev.com,9/10/16,A,R_Hunt
+1003,Fran Schwartz,F,55,2100 S. Ocean Ave SW,Palm Bay,FL,32908,US,9546252913,,9/10/16,I,A_Jones
+1007,James Higgins,M,46,559 West 37th st,Chicago,IN,,US,720-892-1456,James.Higgins@testfreaks.com,9/10/16,A,A_Jones
+1008,John Smith,M,53,2125 Upper 45th St. E.,Inver Grove Heights,MN,55077,US,206.389.4213,John.Smith@ryanair.com,9/10/16,A,M_Jackson
+1020,Gladys A. Pritchet,F,49,262 E. Lawrence Avenue,Springfield,IL,62701,,,Gladys.Pritchet@tucows.com,9/10/16,I,A_Jones
+1024,Tonya Smith,F,49,1515 NW 58th St.,Seattle,WA,,U.S.,,Tonya_Smith@avrev.com,9/10/16,A,A_Jones
+1036,Brent Salzer,M,25,4001 South 700,Salt Lake City,UT,84107,US,,Brent.Salzer@adr.com,9/10/16,A,T_Lee
+1037,Carol Brookins,F,26,1150 18th Street NW,Washington,DC,20036,US,(202) 785-3345,Carol.Brookins@digitaljournalist.org,9/10/16,Inactive,B_Kelly
+1046,Donald Mulder,M,54,1800 W Central Road,Mt Prospect,IL,60056,US,(847) 342-6987,Donald.Mulder@adr.com,9/10/16,Inactive,R_Hunt
+1063,Jane Hartley,F,42,14 East 60th Street,New York,NY,10022,US,(212) 755-0550,<Jane.Hartley@familysearch.org>,9/10/16,Active,SYSTEM
+1067,Jim Oldham,M,49,2910 Highway 80 E,Pearl,MS,39208,U.S.,Ext 51,Jim.Oldham@artmotors.com,9/10/16,A,R_Hunt
+1074,John McCartney,M,24,605 North 5600 W,Salt Lake City,UT,84116,US,(408) 764-3266,John.McCartney@ohgizmo.com,9/10/16,A,R_Hunt
+1076,Jonathan Craft,M,40,605 W Madison Street,Chicago,IL,60661,,,Jonathan.Craft@netstockdirect.com,9/10/16,A,A_Jones
+1077,Joseph Cicero,M,43,3650 Claypond,Myrtle Beach,SC,29579,US,(803) 236-4100,Joseph.Cicero@vrsource.org,9/10/16,Active,R_Hunt
+1079,Joseph Tass,M,25,PO Box 164,Riverdale,MD,20738,US,301/946-6533,<Joseph.Tass@cbsnews.com>,9/10/16,Active,SYSTEM
+1084,Madonna Smeltzer,F,34,1350 East 17th Street,Kansas City,MO,64108,U.S.,(816) 346-0227,Madonna.Smeltzer@csmonitor.com,9/10/16,A,B_Kelly
+1095,Paul Lindstrom,M,46,701 North 7th Street,Kansas City,KS,66101,U.S.A.,(913) 573-5700,SYSTEMMIGRATIONFAILED,9/10/16,Active,SYSTEM
+1107,Robert Cori,M,16,125 S. Main Street,Norcross,GA,30092,US,(404) 448-5210,Robert.Cori@retrevo.com,9/10/16,Inactive,F.West
+1111,Ronald Smith,M,59,306 East 12th Street,Kansas City,MO,64106,US,(816) 871-7130,SYSTEMMIGRATIONFAILED,9/10/16,Active,SYSTEM
+1114,Sam Wyman,M,24,1401 K Street North West,Washington,DC,20005,US,,<Sam.Wyman@enature.com>,9/10/16,Active,SYSTEM
+1115,Scott Orbach,M,22,PO Box 30096,Bethesda,MD,20824,US,,Scott.Orbach@ancestry.com,9/10/16,A,A_Jones
+1123,Thomas Allen,M,30,,,,,US,,<Thomas.Allen@cnet.com>,9/10/16,Active,SYSTEM
+1125,Tom Still,M,20,,Greensboro,NC,27455,US,(910) 282-3690,,9/10/16,I,A_Jones
+1128,John Gonzalez,M,49,,,,,US,9726561059,mailto:John.Gonzalez@valor.org,9/10/16,A,A_Jones

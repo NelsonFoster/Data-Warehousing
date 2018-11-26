@@ -1,0 +1,46 @@
+_Customer_ID,Full_Name,Gen,Age,Address,City,State,PostalCode,Country,Phone,E_Mail,Update_Date,Status,Updated_by
+1003,Fran Schwartz,F,55,2100 S. Ocean Ave SW,Palm Bay,FL,32908,US,9546252913,,9/10/16,I,A_Jones
+1040,Cindy Hanson,F,35,655 Ox Driv,Woodbury,MN,55122,U.S.A.,(651) 792-1329,mailto:Cindy.Hanson@askasia.org,9/10/16,A,B_Kelly
+1056,Gerald Parker,M,51,7140 South Lewis Avenue,,OK,74136,United States,(918) 488-4020,,9/10/16,A,A_Jones
+1063,Jane Hartley,F,42,14 East 60th Street,New York,NY,10022,US,(212) 755-0550,<Jane.Hartley@familysearch.org>,9/10/16,Active,SYSTEM
+1065,Jerry Sturner,M,61,11900 Parklawn Drive,Rockville,MD,20852,,(301) 881-2720,,9/10/16,Active,A_Jones
+1068,Jim Smith,M,45,1008 Avenue Of The Americas,New York,NY,10022,US,(212) 755-2551,<J.Smith@monster.com>,9/10/16,Active,SYSTEM
+1069,Joanne Masterson,F,39,45 Erieview Plaza,Cleveland,OH,44114,US,(216) 822-7642,<Joanne.Masterson@java.sun.com>,9/10/16,Active,SYSTEM
+1070,Joe Smathers,M,42,2009 Crossgate Drive,Lawrence,KS,66047,US,,mailto:Joe.Smathers@oobject.com,9/10/16,A,A_Jones
+1072,Johan Rutzel,M,21,10440 North Central,Dallas,TX,75231,U.S.A.,(972) 583-2312,,9/10/16,A,A_Jones
+1075,John Rogers,M,39,107 Washington Street,Gainesville,GA,30501,U.S.,(404) 531-9972,<John.Rogers@adr.com>,9/10/16,Active,SYSTEM
+1078,Joseph Sciacca,M,25,18009 Vintage River,Olney,MD,20832,United States,,<Joseph.Sciacca@personalityforge.com>,9/10/16,Active,SYSTEM
+1079,Joseph Tass,M,25,PO Box 164,Riverdale,MD,20738,US,301/946-6533,<Joseph.Tass@cbsnews.com>,9/10/16,Active,SYSTEM
+1080,Karen Conklin,F,24,10365 SW Hoodview Drive,Tigard,OR,97224,USA,(503) 598-4787,<Karen.Conklin@foodbuzz.com>,9/10/16,Active,SYSTEM
+1082,Larry Lindner,M,49,5340 Duke St,Pearl,MS,39208,US,(601) 932-4461,,9/10/16,A,A_Jones
+1083,Libby Bender,F,35,2100 Houston Drive,Tulsa,OK,74136,US,(918) 488-4014,,9/10/16,A,A_Jones
+1086,Marnell Ford,M,43,5817 Old Leeds Road,Birmingham,AL,35210,,2059569537,,9/10/16,A,A_Jones
+1087,Maury Gallagher,M,29,3291 North Buffalo Drive,Las Vegas,NV,89129,US,7023101000,<Maury.Gallagher@break.com>,9/10/16,Active,SYSTEM
+1091,Pat Walls,M,45,201 North Franklin Street,Tampa,FL,33602,,8132733029,SYSTEMMIGRATIONFAILED,9/10/16,Inactive,SYSTEM
+1095,Paul Lindstrom,M,46,701 North 7th Street,Kansas City,KS,66101,U.S.A.,(913) 573-5700,SYSTEMMIGRATIONFAILED,9/10/16,Active,SYSTEM
+1096,Paul Somogye,M,35,3130 Broadway Street,Kansas City,MO,64111,US,(816) 756-1060,mailto:Paul.Somogye@techlearning.com,9/10/16,A,A_Jones
+1098,Pete Thomas,M,44,4002 Whisky Rd,Norcross,GA,30092,US,(404) 448-5210,SYSTEMMIGRATIONFAILED,9/10/16,Active,SYSTEM
+1099,Peter Doyle,M,45,1200 New Hampshire Avenue North West,Washington,DC,20036,US,(202) 857-2634,SYSTEMMIGRATIONFAILED,9/10/16,Active,SYSTEM
+1102,Phyllis Jackson,F,29,9523 Kings Court,Atlanta,GA,30305,US,,SYSTEMMIGRATIONFAILED,9/10/16,Active,SYSTEM
+1103,Ronald Orbach,M,43,1 Mobay Road,Pittsburgh,PA,15205,,4127772439,<Ronald.Orbach@i4u.com>,9/10/16,Active,SYSTEM
+1104,Ray Ruybalid,M,30,2302 The Corners Parkway,Norcross,GA,30092,US,(404) 448-5210,mailto:Ray.Ruybalid@retrevo.com,9/10/16,A,M_Jackson
+1105,Richard Coleman,M,35,2505 Piedra Drive,Plano,TX,75023,US,(972) 758-9343,<Richard.Coleman@themekit.com>,9/10/16,Active,SYSTEM
+1106,Rick Brattin,M,22,2130 South Lewis Avenue,Tulsa,OK,74136,USA,(918) 488-4007,mailto:Rick.Brattin@oasispark.net,9/10/16,A,M_Jackson
+1108,Robert Sharkey,M,33,3030 South Wacker Drive,Chicago,IL,60606,US,(312) 558-7972,mailto:Robert.Sharkey@planetgreen.discovery.com,9/10/16,A,M_Jackson
+1109,Robert Thronson,M,40,2937 Fillmore Street,San Francisco,CA,94123,US,(415) 921-7805,SYSTEMMIGRATIONFAILED,9/10/16,Active,SYSTEM
+1111,Ronald Smith,M,59,306 East 12th Street,Kansas City,MO,64106,US,(816) 871-7130,SYSTEMMIGRATIONFAILED,9/10/16,Active,SYSTEM
+1112,Ronald Zimmer,M,32,902 Tyler Ct,Allen,TX,75013,US,(972) 583-2232,SYSTEMMIGRATIONFAILED,9/10/16,Active,SYSTEM
+1113,Sam Mcbrier,M,43,30 Voice Road,Carle Place,NY,11514,,(516) 747-4030,SYSTEMMIGRATIONFAILED,9/10/16,Active,SYSTEM
+1114,Sam Wyman,M,24,1401 K Street North West,Washington,DC,20005,US,,<Sam.Wyman@enature.com>,9/10/16,Active,SYSTEM
+1116,Sebastian Taylor,M,43,10440 North Central Expy,Dallas,TX,75231,US,(888) 404-6478,mailto:Sebastian.Taylor@fool.com,9/10/16,A,M_Jackson
+1117,Sheri Mcburrows,F,40,2683 Prairie Avenue,Chicago,IL,60201,US,,mailto:Sheri.Mcburrows@medscape.com,9/10/16,A,M_Jackson
+1119,Jackson Greene,M,33,2002 Pisgah Church Road,Greensboro,NC,27455,US,,mailto:Jackson.Greene@aesthetic.com,9/10/16,Inactive,M_Jackson
+1120,Susan Moorhead,F,49,10010 Junction Drive,Annapolis Jct,MD,20701,US,(301) 497-4505,Susan .Moorhead@whitehouse.gov,9/10/16,Active,F.West
+1121,Susan Parrott,F,33,1803 The Corners Parkway,Norcross,GA,30092,US,(404) 446-0420,<Susan.Parrott@retrevo.com>,9/10/16,Active,SYSTEM
+1123,Thomas Allen,M,30,,,,,US,,<Thomas.Allen@cnet.com>,9/10/16,Active,SYSTEM
+1125,Tom Still,M,20,,Greensboro,NC,27455,US,(910) 282-3690,,9/10/16,I,A_Jones
+1127,Tony George,M,25,5400 Bayfront Plaza,Santa Clara,CA,95054,USA,,<Tony.George@zombie.com>,9/10/16,Active,SYSTEM
+1128,John Gonzalez,M,49,,,,,US,9726561059,mailto:John.Gonzalez@valor.org,9/10/16,A,A_Jones
+1129,Victor Corral,M,40,135 East Ortega Street,Santa Barbara,CA,93101,US,(805) 963-1619,,9/10/16,A,A_Jones
+1130,David W Grogan,M,41,6625 The Corners Parkway,Norcross,GA,30092,US,(404) 448-5210,<David.Grogan@retrevo.com>,9/10/16,Active,SYSTEM
+1131,David Grogan,M,41,6625 The Corners Parkway,Norcross,GA,30092,US,(404) 448-5210,<DW.Grogan@retrevo.com>,9/10/16,Active,SYSTEM

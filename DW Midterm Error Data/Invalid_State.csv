@@ -1,0 +1,5 @@
+_Customer_ID,Full_Name,Gen,Age,Address,City,State,PostalCode,Country,Phone,E_Mail,Update_Date,Status,Updated_by
+1019,Mellisa A Bernardi,F,59,7201 Charles Ct.,Dallas,X,,US,972851468,M.Bernardi@gmail.com,9/10/16,Active,A_Jones
+1073,John Davis,M,34,1200 New Hampshire Avenue NW,Wash,D,20036,US,(202) 857-2775,John.Davis@healthfinder.gov,9/10/16,A,T_Lee
+1123,Thomas Allen,M,30,,,,,US,,<Thomas.Allen@cnet.com>,9/10/16,Active,SYSTEM
+1128,John Gonzalez,M,49,,,,,US,9726561059,mailto:John.Gonzalez@valor.org,9/10/16,A,A_Jones

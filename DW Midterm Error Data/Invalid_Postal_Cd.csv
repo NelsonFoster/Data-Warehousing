@@ -1,0 +1,19 @@
+_Customer_ID,Full_Name,Gen,Age,Address,City,State,PostalCode,Country,Phone,E_Mail,Update_Date,Status,Updated_by
+1005,Steve Ahern,M,51,100 Cardinal Way,Redwood City,CA,,USA,(412) 215-9843,Steve.Ahern@suitdepot.com,9/10/16,A,A_Jones
+1007,James Higgins,M,46,559 West 37th st,Chicago,IN,,US,720-892-1456,James.Higgins@testfreaks.com,9/10/16,A,A_Jones
+1011,Dorothy Zotta,F,45,4911 Sutherland Ave.,St. Louis,MO,,US,call: 314-254-2322,Dorothy.Zotta@cbsnews.com,9/10/16,,A_Jones
+1012,Stephen J. Ahern,M,53,120 Davidson Avenue,Somerset,NJ,8873,US,,Stephen.Ahern@photojournal.com,9/2/16,A,A_Jones
+1013,Carl J. Kuhen,M,50,500 Birch Driv.,Stratford,CT,6614,USA,,Carl.Kuhen@rethinkingschools.org,9/10/16,A,A_Jones
+1015,Mellisa Bernardi,F,47,7201 Charles Court,Dallas,TX,,U.S.A.,,M.Bernardi@gmail.com,9/10/16,,A_Jones
+1018,Dawn V. Schwartz,F,26,12498 Sheridan St.,Ft. Lauderdale,FL,,US,9546253319,Dawn.Schwartz@avrev.com,9/10/16,A,A_Jones
+1019,Mellisa A Bernardi,F,59,7201 Charles Ct.,Dallas,X,,US,972851468,M.Bernardi@gmail.com,9/10/16,Active,A_Jones
+1022,Nate J. Higgins,M,59,998 Rosemary St.,Denver,CO,,US,,Nate.Higgins@memri.org,9/10/16,A,A_Jones
+1023,Dawn Schwartz,F,,8100 Sunrise Lakes Blvd.,Fort Lauderdale,FL,,,(954) 625-3319,Dawn.Schwartz@avrev.com,9/10/16,A,A_Jones
+1024,Tonya Smith,F,49,1515 NW 58th St.,Seattle,WA,,U.S.,,Tonya_Smith@avrev.com,9/10/16,A,A_Jones
+1041,Tim Diefendorf,M,63,628 Hebron Avenue,Glastonbury,CT,6033,US,,Tim.Diefendorf@rootsweb.com,9/10/16,A,M_Jackson
+1048,Eithne Egan,M,39,32 Hartwell Avenue,Lexington,MA,2421,US,6174768000,Eithne.Egan@ft.com,9/10/16,A,B_Kelly
+1051,Fred Healy,M,32,77 North Washington Street,Boston,MA,2114,,(617) 367-0500,Fred.Healy@google.com,9/10/16,A,A_Jones
+1055,Gene Saftler,M,41,420 Bedford Street,Lexington,MA,2420,,(617) 863-8588,Gene.Saftler@food411.com,9/10/16,A,A_Jones
+1094,Paul Bowling,M,29,100 Stanford Court,Redwood City,CA,,US,(406) 444-4455,Paul.Bowling@dressdepot.com,9/10/16,A,A_Jones
+1123,Thomas Allen,M,30,,,,,US,,<Thomas.Allen@cnet.com>,9/10/16,Active,SYSTEM
+1128,John Gonzalez,M,49,,,,,US,9726561059,mailto:John.Gonzalez@valor.org,9/10/16,A,A_Jones

@@ -1,0 +1,5 @@
+_Customer_ID,Full_Name,Gen,Age,Address,City,State,PostalCode,Country,Phone,E_Mail,Update_Date,Status,Updated_by
+1017,Steve J. Ahern,M,,101 Laurel Court,Pittsburgh,PA,15202,,(412)215-9843,Steve.J.Ahern@metaverseroadmap.org,9/2/16,Active,A_Jones
+1021,John Meyers,M,,1902 Utah Street,Seattle,WA,98107,US,,John_Meyers@avrev.com,9/10/16,,A_Jones
+1023,Dawn Schwartz,F,,8100 Sunrise Lakes Blvd.,Fort Lauderdale,FL,,,(954) 625-3319,Dawn.Schwartz@avrev.com,9/10/16,A,A_Jones
+1107,Robert Cori,M,16,125 S. Main Street,Norcross,GA,30092,US,(404) 448-5210,Robert.Cori@retrevo.com,9/10/16,Inactive,F.West
